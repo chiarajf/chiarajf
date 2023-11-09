@@ -39,6 +39,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<chiarajf>/<chiarajf>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/chiarajf/chiarajf/output/snake.svg" alt="Snake animation" />
 
 ###
+
