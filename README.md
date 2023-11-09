@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chiarajf/chiarajf/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<chiarajf>/<chiarajf>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
